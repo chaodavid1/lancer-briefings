@@ -10,10 +10,10 @@
     "system": "Heiligtum",
     "gate": "Rào Cỏ",
     "ring": "Annamite",
-    "headerTitle": "USB |",
+    "headerTitle": "USB",
     "headerSubtitle": "Far Field Team",
-    "subheaderTitle": "Mechanized Chassis Deployment",
-    "subheaderSubtitle": "USV - Silver Lining"
+    "subheaderTitle": "USV - Silver Lining",
+    "subheaderSubtitle": "Mechanized Chassis Deployment"
   },
   "pilotSpecialInfo": {}
 }
