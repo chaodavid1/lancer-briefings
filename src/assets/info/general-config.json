@@ -1,13 +1,13 @@
 {
-  "initialSlug": "001",
-  "planetPath": "/Asteroid.webm",
+  "initialSlug": "002",
+  "planetPath": "/Civvy4.webm",
   "animate": true,
   "defaultTitle": "USB RANGER |",
   "icon": "/faction-logos/union.svg",
   "header": {
-    "planet": "Omninet Relay Outpost R10-981",
+    "planet": "Civvy 4",
     "year": "5017u",
-    "system": "Sharbāt",
+    "system": "Civenturry",
     "gate": "Hood",
     "ring": "Cascade",
     "headerTitle": "USB",
