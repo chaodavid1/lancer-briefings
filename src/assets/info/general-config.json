@@ -1,14 +1,14 @@
 {
   "initialSlug": "002",
-  "planetPath": "/Civvy4.webm",
+  "planetPath": "/Eridanus.webm",
   "animate": true,
   "defaultTitle": "USB RANGER |",
   "icon": "/faction-logos/union.svg",
   "header": {
-    "planet": "Civvy 4",
+    "planet": "Rosequartz Observatory",
     "year": "5017u",
-    "system": "Civenturry",
-    "gate": "Hood",
+    "system": "Eridanus",
+    "gate": "Adams",
     "ring": "Cascade",
     "headerTitle": "USB",
     "headerSubtitle": "Far Field Team",
